@@ -1,0 +1,2 @@
+# LolNetworkBot
+Bot Lol Network
